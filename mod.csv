@@ -2,7 +2,14 @@
 material,pap_camo
 
 // WEAPONS
-weapon,sp/tesla_gun_zm
+//weapon,sp/tesla_gun_zm
+//weapon,sp/tesla_gun_upgraded_zm
+//weapon,sp/thundergun_upgraded_zm
 
 // XMODELS
 xmodel,viewmodel_usa_tesla_gun
+xmodel,viewmodel_zombie_tesla_up
+xmodel,weapon_usa_tesla
+xmodel,viewmodel_usa_thompson_smg
+xmodel,t5_weapon_crossbow_viewmodel
+xmodel,t5_weapon_thundergun_viewmodel
