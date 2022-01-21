@@ -1,5 +1,4 @@
-//MULE
-
+//MULE FIX
 xmodel,zombie_vending_three_gun
 xmodel,zombie_vending_three_gun_on
 xmodel,zombie_3rd_perk_bottle_three_gun
@@ -8,8 +7,11 @@ fx,misc/fx_zombie_cola_arsenal_on
 material,specialty_extraprimaryweapon_zombies
 weapon,sp/zombie_perk_bottle_additionalprimaryweapon
 
-//scripts_CotD
+//TGUN FIX
+weapon,sp/thundergun_zm
+weapon,sp/thundergun_upgraded_zm
 
+//scripts_CotD
 rawfile,clientscripts/zombie_coast_ffotd.csc
 rawfile,clientscripts/_zombiemode_ai_director.csc
 
@@ -24,19 +26,15 @@ rawfile,maps/zombie_coast_ffotd.gsc
 rawfile,maps/zombie_coast_flinger.gsc
 
 //scripts_verrukt
-
 rawfile,maps/zombie_cod5_asylum.gsc
 
 //scripts_riese
-
 rawfile,maps/zombie_cod5_factory_teleporter.gsc
 
 //scripts_natch
-
 rawfile,maps/zombie_cod5_prototype.gsc
 
 //scripts_snn
-
 rawfile,animscripts/traverse/crouch_jump_down_40.gsc
 
 rawfile,maps/zombie_cod5_sumpf.gsc
@@ -45,7 +43,6 @@ rawfile,maps/zombie_cod5_sumpf_perks.gsc
 rawfile,maps/zombie_cod5_sumpf_zipline.gsc
 
 //scripts_asc
-
 rawfile,clientscripts/_zombiemode_weap_black_hole_bomb.csc
 rawfile,clientscripts/zombie_cosmodrome.csc
 rawfile,clientscripts/zombie_cosmodrome_ffotd.csc
@@ -58,7 +55,6 @@ rawfile,maps/zombie_cosmodrome_lander.gsc
 rawfile,maps/zombie_cosmodrome_magic_box.gsc
 
 //scripts_moon
-
 rawfile,clientscripts/_zombiemode_equip_gasmask.csc
 rawfile,clientscripts/_zombiemode_weap_black_hole_bomb.csc
 rawfile,clientscripts/zombie_moon_fx.csc
@@ -78,7 +74,6 @@ rawfile,maps/zombie_moon_teleporter.gsc
 rawfile,maps/zombie_moon_wasteland.gsc
 
 //scripts_five
-
 rawfile,clientscripts/zombie_pentagon_ffotd.csc
 
 rawfile,maps/_zombiemode_ai_thief.gsc
@@ -88,7 +83,6 @@ rawfile,maps/zombie_pentagon_ffotd.gsc
 rawfile,maps/zombie_pentagon_teleporter.gsc
 
 //scripts_shang
-
 rawfile,clientscripts/zombie_temple.csc
 
 rawfile,maps/zombie_temple_ai_monkey.gsc
@@ -101,7 +95,6 @@ rawfile,maps/zombie_temple_sq_brock.gsc
 rawfile,maps/zombie_temple_sq_ptt.gsc
 
 //scripts_kino
-
 rawfile,clientscripts/zombie_theater_ffotd.csc
 rawfile,clientscripts/zombie_theater_fx.csc
 

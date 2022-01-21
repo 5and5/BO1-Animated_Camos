@@ -19,3 +19,7 @@ rawfile,maps/zombie_theater_ffotd.gsc
 rawfile,maps/zombie_theater_magic_box.gsc
 rawfile,maps/zombie_theater_movie_screen.gsc
 rawfile,maps/zombie_theater_teleporter.gsc
+
+//TGUN FIX
+weapon,sp/thundergun_zm
+weapon,sp/thundergun_upgraded_zm
