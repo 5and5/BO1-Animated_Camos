@@ -1,0 +1,13 @@
+//MULE
+
+xmodel,zombie_vending_three_gun
+xmodel,zombie_vending_three_gun_on
+xmodel,zombie_3rd_perk_bottle_three_gun
+xmodel,zombie_perk_bottle_three_gun
+fx,misc/fx_zombie_cola_arsenal_on
+material,specialty_extraprimaryweapon_zombies
+weapon,sp/zombie_perk_bottle_additionalprimaryweapon
+
+//scripts_natch
+
+rawfile,maps/zombie_cod5_prototype.gsc
