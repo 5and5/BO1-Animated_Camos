@@ -9,6 +9,7 @@ rawfile,maps/_zombiemode_weapons.gsc
 //rawfile,maps/zombie_theater.gsc
 
 // WEAPONS
+//weapon,sp/m14_zm
 //weapon,sp/ppsh_zm
 //weapon,sp/ppsh_upgraded_zm
 //xmodel,weapon_rus_ppsh_smg
@@ -25,4 +26,5 @@ xmodel,t5_weapon_1911_rh_viewmodel
 xmodel,t5_weapon_1911_rh_world
 xmodel,t5_weapon_1911_lh_viewmodel
 xmodel,t5_weapon_1911_lh_world
+xmodel,t5_weapon_m14_viewmodel
 xmodel,viewmodel_claymore
