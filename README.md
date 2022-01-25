@@ -1,6 +1,5 @@
 # Call of Duty: Black Ops Zombies - Animated Camos
 
-
 ## Patch Download
 
 [Download](https://www.mediafire.com/file/2w0j9hv31eok5z4/BO1-Animated_Camos.zip/file)
@@ -18,8 +17,13 @@
 ## Camos
 
 ### Weapons
-* Wunder Waffe
-* Thundergun
-* Crossbow
-* Dual m1911's
-* m14
+
+- Wunder Waffe
+- Thundergun
+- Crossbow
+- Dual m1911's
+- m14
+
+## Credits
+
+- shippuden1592 - for teaching me how to make animated camos
